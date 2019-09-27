@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://gamingpartner.dk/</loc>
+  <lastmod>2019-07-25T10:40:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://gamingpartner.dk/index.php</loc>
+  <lastmod>2019-07-25T10:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamingpartner.dk/profile.php</loc>
+  <lastmod>2019-07-25T10:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamingpartner.dk/signup.php</loc>
+  <lastmod>2019-07-25T10:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamingpartner.dk/csgoopslag.php</loc>
+  <lastmod>2019-07-25T10:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamingpartner.dk/lolopslag.php</loc>
+  <lastmod>2019-07-25T10:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamingpartner.dk/fortniteopslag.php</loc>
+  <lastmod>2019-07-25T10:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamingpartner.dk/dota2opslag.php</loc>
+  <lastmod>2019-07-25T10:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamingpartner.dk/wowopslag.php</loc>
+  <lastmod>2019-07-25T10:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
