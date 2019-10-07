@@ -1,8 +1,8 @@
 <?php
 
 $dbServername = "localhost";
-$dbUsername = "n162506_buchbase";
-$dbPassword = "v6?-]~x.HP%O";
+$dbUsername = "****";
+$dbPassword = "****";
 $dbName = "forum_login";
 
 $conn = mysqli_connect($dbServername, $dbUsername, $dbPassword, $dbName);
